@@ -1,12 +1,12 @@
 LTA CAMS EAST/S.E
 
-Blk 12 Bedok South
+Blk 3 Bedok South
 
-Blk 524 Bedok OHB
-
-Blk 412 Bedok North
+Blk 632 Bedok Reservoir
 
 Blk 101 Simei
+
+Blk 311 Tampines
 
 Blk 602B Tampines
 
